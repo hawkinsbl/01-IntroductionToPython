@@ -36,7 +36,7 @@ window = rg.TurtleWindow()
 pointer1.pen = rg.Pen('blue',15)
 pointer1.speed = 10
 turtle1.pen = rg.Pen('green',30)
-turtle1.speed = 30
+turtle1.speed = 40
 
 for k in range(15):
     pointer1.forward(100)
